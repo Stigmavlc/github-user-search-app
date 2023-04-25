@@ -1,2 +1,2 @@
 # github-user-search-app
-A simple and beautiful Github username search app
+A simple and beautiful GitHub username search app
